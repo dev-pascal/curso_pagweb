@@ -1,0 +1,13 @@
+body {
+    background-color: skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+}
+img {
+    vertical-align: text-top;  
+}
+li {
+    font-size: 100%;
+}
